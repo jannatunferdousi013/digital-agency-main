@@ -1,0 +1,88 @@
+.Mary-hardy{
+    background-image:  url(image/background.jpg )   ;
+    background-color: rgb(172, 171, 171);
+
+}
+.pic{
+    width: 666px;
+}
+.pasapasi{
+    display: flex;
+    /* margin-left: 250px; */
+    background-color: rgb(205, 201, 201);
+    padding : 10px;
+    margin-right: 0px;
+}
+.title{
+    margin-left: 240px; 
+}
+.title{
+    color: aqua;
+    font-weight: 600;
+    font-size: 20px;
+}
+.soja{
+    display: flex;
+    list-style: none;
+    margin-left: 600PX;
+    /* margin-right: 300px; */
+padding-right: 300px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.boro{
+    margin-left: 480px;
+   margin-right: 350px;
+}
+.hi{
+    padding-top:  250px;
+    font-weight: 700;
+    font-size: 85px;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.Digital{
+    color: red;
+    /* font-weight: 700;
+    font-size: 35px; */
+}
+.mary2{
+    font-weight: 700;
+    font-size: 85px;
+    color: white;
+    margin: 0px;
+}
+.p-tag{
+    margin-top: 40px;
+    color: white;
+    font-weight: 400;
+    font-size: 26px;
+    margin: 5px;
+    margin-bottom: 10px;
+}
+.d-button{
+    padding: 15px;
+    background-color: red;
+    border: none;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-bottom: 150px;
+}
+.c-button{
+    background-color: white;
+    padding: 15px;
+    font-size: 20px;
+    border: none;
+    margin-left:    50px;
+   
+
+}
